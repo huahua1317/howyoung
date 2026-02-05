@@ -1,0 +1,9 @@
+{
+  "name": "Copy of 青少年生涯探索護照",
+  "description": "專為青少年設計的生涯探索平台，結合108課綱學習歷程，紀錄課程心得與成長軌跡。社工可輕鬆管理課程，學生可累積個人專屬的生涯護照。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
